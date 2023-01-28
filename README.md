@@ -1,4 +1,5 @@
 My first readme
+<<<<<<< HEAD
 
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Tafadzwa Alexander Razaro</h1>
@@ -40,3 +41,6 @@ My first readme
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirx2713&" alt="sirx2713" /></p>
 
+=======
+Alexander
+>>>>>>> update_script
